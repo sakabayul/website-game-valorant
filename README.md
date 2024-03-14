@@ -1,3 +1,8 @@
 # website-game-valorant
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sakabayul/website-game-valorant)
+Tutorial: https://www.youtube.com/watch?v=j7GG009J9uc <br>
+UI/UX By: Lun Dev
+<br>
+Contact: <br>
+Linkedin: https://www.linkedin.com/in/saka-bayu-l <br>
+GitHub: https://github.com/sakabayul
