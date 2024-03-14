@@ -1,7 +1,8 @@
 # Website Game Valorant
 
 Tutorial: https://www.youtube.com/watch?v=j7GG009J9uc <br>
-UI/UX By: Lun Dev
+Design UI/UX By: Lun Dev <br>
+Web Development By: Saka Bayu
 <br>
 <br>
 Contact me: <br>
