@@ -1,4 +1,4 @@
-# website-game-valorant
+# Website Game Valorant
 
 Tutorial: https://www.youtube.com/watch?v=j7GG009J9uc <br>
 UI/UX By: Lun Dev
